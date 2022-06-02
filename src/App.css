@@ -24,6 +24,16 @@
   color: white;
 }
 
+@font-face{
+  font-family : Jua;
+  src: url('./styled/fonts/Jua-Regular.ttf')
+}
+
+@font-face{
+  font-family : SansKR_Bold;
+  src: url('./styled/fonts/IBMPlexSansKR-SemiBold.ttf')
+}
+
 .App-link {
   color: #61dafb;
 }
